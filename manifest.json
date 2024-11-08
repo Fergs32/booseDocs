@@ -1,0 +1,300 @@
+{
+  "source_base_path": "C:/Users/Ben/source/repos/ase-boose-assignment-Fergs32/BooseInterpreter",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Canvas.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Canvas.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Canvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Canvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.ColorCommands.AppPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.ColorCommands.AppPenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.ColorCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.ColorCommands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.CommandFactoryImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.CommandFactoryImpl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.DataCommands.AppArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.DataCommands.AppArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.DataCommands.AppInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.DataCommands.AppInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.DataCommands.AppReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.DataCommands.AppReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.DataCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.DataCommands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.MovementCommands.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.MovementCommands.AppDrawTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.MovementCommands.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.MovementCommands.AppMoveTo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.MovementCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.MovementCommands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.ShapeCommands.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.ShapeCommands.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.ShapeCommands.AppRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.ShapeCommands.AppRectangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.ShapeCommands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.ShapeCommands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Commands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Parsing.ParserImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Parsing.ParserImpl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Parsing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Parsing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Programs.StoredProgramImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Programs.StoredProgramImpl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.Programs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.Programs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.mainScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.mainScreen.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseInterpreter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseInterpreter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "y/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "y/toc.html"
+        },
+        ".json": {
+          "relative_path": "y/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
